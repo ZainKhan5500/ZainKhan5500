@@ -20,7 +20,7 @@
 <h3 align="center">:globe_with_meridians: Connect With Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/m-zain-khan/">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
